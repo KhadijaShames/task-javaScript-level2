@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+button {
+  margin: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+.completed {
+  text-decoration: line-through;
+}
+.cart-item {
+  display: flex;
+  justify-content: space-between;
+  margin: 5px 0;
+}
+#calculator button {
+  width: 40px;
+  height: 40px;
+  margin: 2px;
+}
